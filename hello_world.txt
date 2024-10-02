@@ -1,2 +1,2 @@
 continue to test github commit commands.
-Testing commit.
+Testing git commit and git commit -m
